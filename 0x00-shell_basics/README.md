@@ -1,1 +1,1 @@
-Current working directory
+print pwd
